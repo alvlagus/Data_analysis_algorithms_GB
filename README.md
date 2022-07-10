@@ -1,2 +1,2 @@
-# Data_analysis_algorithms_-GB-
+# Data_analysis_algorithms_GB
 Курс "Алгоритмы анализа данных". GeekBrains 
